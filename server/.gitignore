@@ -1,0 +1,38 @@
+# Dependency directories
+node_modules/
+
+# Build outputs
+dist/
+build/
+.coverage/
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# npm debug files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Optional: test coverage
+coverage/
+
+# Optional: local history or temp files
+*.swp
+*.tmp
