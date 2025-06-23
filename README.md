@@ -26,7 +26,8 @@
 
 ## 🛠️ Tech Stack
 
-| Layer     | Technologies                              |
+| Layer     | Technologies                             
+
 |-----------|-------------------------------------------|
 | Frontend  | React, Tailwind CSS, Redux Toolkit        |
 | Backend   | Node.js, Express.js                       |
@@ -44,7 +45,9 @@
 git clone https://github.com/divanshArora3/FitnessGuru.git
 cd FitnessGuru
 ```
-
+# Demo 
+ |<img width="1440" alt="Screenshot 2025-06-23 at 11 56 45 AM" src="https://github.com/user-attachments/assets/4f70f37a-bc71-466c-bc67-7977c2e321f0" />
+ 
 # 📬 Upcoming Features
 🥗 Nutrition tracking and meal planning
 
