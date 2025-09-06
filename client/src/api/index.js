@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://fitnessguru.onrender.com/api/",
+  baseURL: "https://fitness-guru-ecru.vercel.app/",
 });
 
 export const UserSignUp = async (data) => API.post("/user/signup", data);
