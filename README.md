@@ -2,6 +2,7 @@
 
 **FitnessGuru** is a full-stack fitness tracking and workout management application designed to help users stay on top of their health and training goals. It allows users to create personalized workout routines, log daily exercises, track progress over time, and stay motivated through a clean, user-friendly dashboard.
 
+#live at:https://fitnessgurufrontend.vercel.app
 ## 🧠 Key Features
 
 - 🏋️ **Custom Workout Planner**  
